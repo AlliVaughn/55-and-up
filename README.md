@@ -1,7 +1,9 @@
 
-# (Team 7: Sam, Deb, Alli)
+# Assisted Living Recommender
+## (Team 7: Sam, Deb, Alli)
 Recommender will answer this question based on the  questions below:   
-In which Austin city quadrant should a 55+ person consider purchasing or renting an Assisted Living Facility residence based on the need for future hospital vists?  
+In which Austin city quadrant( NW, NE, SW, SE) should a 55+ person consider purchasing or renting an Assisted Living Facility residence based on proximity and rating of hospitals?   
+
 ### Research Questions to Answer:
 1. What is the average rating of each hospital? 
 2. What is the average rating of each ALF? 
@@ -10,30 +12,34 @@ In which Austin city quadrant should a 55+ person consider purchasing or renting
 5. Which hospital has the highest number of transports in from EMS
 
 
-We intend to determine the Assisted Living Facility locations to live nearest to good hospitals in Austin based on the following:   
+### We intend to determine the Assisted Living Facility locations to live nearest to good hospitals in Austin based on the following:   
 
 Data:
-Locations of hospitals in Austin ( Google API)
-Locations of Assisted living facilities in Austin ( Google API)
-Google Ratings of Hospitals in Austin
-Google ratings of ALF in Austin (Google API)
-<!-- Demographics at hospitals, if possible (% age > 55 admissions)(Need to find these)
-Austin Demographics(age, indicating the need to move to these facilities) -->
+* Locations of hospitals in Austin ( Google API)
+* Locations of Assisted living facilities in Austin ( Google API)
+* Google Ratings of Hospitals in Austin
+* Google ratings of ALF in Austin (Google API)
+
 
 
 Determine: 
-What hospitals are the best in Austin ( Rating > 4/5 stars) 
-Which areas have greatest concentration of Assisted Living Facilities in Austin? ( > x %  or highest tier of data we find. Will split out by % and do city quadrants)
+* Higest rated hospitals in Austin (Rating > 4/5 stars) 
+* Highest rated ALFs in Austin?  
+* Quadrant with the highest number of ALFs
+* Quadrant with teh  highest number of Hospitals
+
+
+*<!--  Which areas have greatest concentration of Assisted Living Facilities in Austin? ( > x %  or highest tier of data we find. Will split out by % and do city quadrants) -->
 
 
 Sources:
-Google geo and search by place, Google ratings, Hospital demographics TBD
+Google geo and search by place, Google ratings
 
-We can also recommend the need for future ALFs in certain parts of the city based upon the heatmap we produce.
+Future:  We could also recommend the need for future ALFs in certain parts of the city 
 
 
 
-I nitial Class Brainstorm:
+Initial Class Brainstorm:
 We have decided NOT to go with Haversine / distance-based inquiry for Project 1  based on recommendation by Manuel.  
 
 Assisted living facilities = google loc ( L, L )  of ASL facilities ( search api , geo api )
