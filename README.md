@@ -1,7 +1,7 @@
 
 # Project 1: Assisted Living Recommender
 ## Team: Sam, Deb, Alli
-#### Recommender will answer this question based on the  questions below:   
+#### Recommender will answer this question based on the questions below:   
 #### In which Austin city quadrant( NW, NE, SW, SE) should a 55+ person consider purchasing or renting an Assisted Living Facility residence based on proximity and rating of hospitals?   
 
 ### Research Questions to Answer:
@@ -12,7 +12,7 @@
 5. Which hospital has the highest number of transports in from EMS
 
 
-Data:
+### Data:
 * Locations of hospitals in Austin ( Google API): get current coordinates
 * Locations of Assisted living facilities in Austin (Google API): get current coordinates
 * Google Ratings of Hospitals in Austin: get average rating 
@@ -20,13 +20,13 @@ Data:
 * Austin Texas EMS Transports: get average rating for TBD time period   
 
 
-## Sources:
+### Sources:
 * Google geo
 * Google search by place 
 * Google ratings
 * Austin Texas EMS Transport Logs
 
-Determine: 
+### Determine: 
 * Higest rated hospitals in Austin (Rating > 4/5 stars) 
 * Highest rated ALFs in Austin?  
 * Quadrant with the highest number of ALFs
@@ -34,7 +34,7 @@ Determine:
 * Hospitals with highest number of EMS transports
 
 
-## Visualizations 
+### Visualizations 
 Average ALF Rating per facility
 Average Hospital Rating per facility
 Transports per Hospital Facility 
