@@ -2,7 +2,7 @@
 # Project 1: Assisted Living Recommender
 ## Team: Sam, Deb, Alli
 #### Recommender will answer this question based on the  questions below:   
-#### In which Austin city quadrant( NW, NE, SW, SE) should a 55+ person consider purchasing or renting an Assisted Living Facility residence #### based on proximity and rating of hospitals?   
+#### In which Austin city quadrant( NW, NE, SW, SE) should a 55+ person consider purchasing or renting an Assisted Living Facility residence based on proximity and rating of hospitals?   
 
 ### Research Questions to Answer:
 1. What is the average rating of each hospital? 
