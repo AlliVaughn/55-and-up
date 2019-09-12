@@ -1,4 +1,4 @@
-
+![MAP](https://github.com/AlliVaughn/Project1/blob/master/final_images/map_snipped.JPG)
 # Project 1: Assisted Living Recommender
 ## Team: Sam, Deb, Alli
 #### The problem:  
