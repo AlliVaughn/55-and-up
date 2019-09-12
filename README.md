@@ -1,73 +1,63 @@
 
 # Project 1: Assisted Living Recommender
 ## Team: Sam, Deb, Alli
-#### Recommender will answer this question based on the questions below:   
-#### In which Austin city quadrant( NW, NE, SW, SE) should a 55+ person consider purchasing or renting an Assisted Living Facility residence based on proximity and rating of hospitals?   
+#### The problem:  
+“The evidence indicates that every additional kilometer [away one is from the hospital] decreases the probability of survival because it causes an injured individual to become a more serious case. She or he will arrive at the hospital in worse condition as the time to reach the emergency room increases. Assessing whether proximity is more or less relevant conditional on the quality or performance of the nearest hospital is an empirical question. Both high‐ and low‐quality hospitals can save both easy and serious cases, but we could expect that, on average, high‐quality hospitals tend to save more of both.” 
+Their findings stress that “…poor emergency care services, and low‐quality hospitals increase the importance of hospital proximity.”  - A current study from The Econometrics workshop: The life‐saving effect of hospital proximity
+
+#### We chose to look at both proximity and quality. 
+
+* Aging populations tend to have increasing rates of morbidity, mortality, and long-term sequelae due to delays in treatment such as stroke, organ failure, or heart attack.    
+
+* For this reason, it is an advantage for a person looking for a suitable community to move to due to aging to consider nearby hospital availability and quality.  
+
+* We chose 5 Miles as a radius defining “nearby” medical facilities for the purposes of our inquiry because we are in the United States, and we chose the Google ratings for each facility as a short-term proxy for hospital quality.  
+
+
+#### Our Recommender will answer this question based on the questions below:   
+#### In which Austin city quadrant( NW, NE, SW, SE) should a person consider purchasing or renting an Assisted Living Facility residence based on proximity and rating of hospitals? 
+
+### Project Questions:  
+* Where in Austin is the best place to live if one is looking for Assisted Living based on proximity to hospitals and emergency rooms? 
+* Where in Austin is the best place to live if one is looking for Assisted Living based on quality of living situation? 
+* Where in Austin is the best place to live if one is looking for Assisted Living based on quality of care? 
+* Our Recommender: Where in Austin is the best place to live if one is looking for Assisted Living? 
 
 ### Research Questions to Answer:
 1. What is the average rating of each hospital? 
 2. What is the average rating of each ALF? 
 3. What is the quad with the highest concentration of hospitals
 4. What is the quad with the highest concentration of ALFs
-5. Which hospital has the highest number of transports in from EMS
 
 
 ### Data:
 * Locations of hospitals in Austin ( Google API): get current coordinates
 * Locations of Assisted living facilities in Austin (Google API): get current coordinates
 * Google Ratings of Hospitals in Austin: get average rating 
-* Google ratings of ALF in Austin (Google API): get average rating for TBD time period 
-* Austin Texas EMS Transports: get average rating for TBD time period   
+* Google ratings of ALF in Austin (Google API): get average rating for TBD time period  
 
 
 ### Sources:
-* Google geo
-* Google search by place 
-* Google ratings
-* Austin Texas EMS Transport Logs
+* Proximity: Google (Place Search, Nearby search)  
+* Ratings: Google (Places API)
 
 ### Determine: 
-* Higest rated hospitals in Austin (Rating > 4/5 stars) 
-* Highest rated ALFs in Austin?  
+* Higest rated hospitals in Austin per quad 
+* Highest rated ALFs in Austin per quad  
 * Quadrant with the highest number of ALFs
 * Quadrant with the highest number of Hospitals
-* Hospitals with highest number of EMS transports
+* Recommendation based on findings
 
 
 ### Visualizations 
-Average ALF Rating per facility
-Average Hospital Rating per facility
-Transports per Hospital Facility 
+ALF Ratings per Quadrant
+Hospital Ratings per Qudrant
+Combined Overview of Ratings for ALFs and Hospitals
 Layered map of Hospitals and ALFs in Austin 
 
 
 
-
-
-
 ### Future Scope:  
-* Heatmap of distances between Hospitals and ALFs, visualize as heatmap
 * recommend the need for future ALFs in certain parts of the city 
 
 
-<!-- Notes
-Initial Class Brainstorm:
-We have decided NOT to go with Haversine / distance-based inquiry for Project 1  based on recommendation by Manuel.  
-
-Assisted living facilities = google loc ( L, L )  of ASL facilities ( search api , geo api )
-Hospitals = google loc ( L, L )  of ASL facilities ( search api , geo api )
-Distance = ALF to Hospitals
-
-
-#Different marker colors
-Loc Map  hospitals ( markers)
-Loc Map  ALF( markers)
-
-
-DF = Distance TO CLOSEST
-
-
-Heat =  is  ascending [distance r/t ALF ]
-Heat map = Heat
-
-Hottest  area is the BEST place to live for a senior looking for a future ALF residence relative to getting quick healthcare. -->

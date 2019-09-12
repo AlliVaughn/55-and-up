@@ -1,21 +1,201 @@
 Name,Lat,Long,Id,Address,Rating
-St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.4
 Dell Children's Medical Center of Central Texas Emergency Room,30.3037835,-97.7067943,ChIJiRc6sAfKRIYRmOzVy1A6n6M,"4900 Mueller Blvd, Austin",2.8
-The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
-Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
-Emergency Room - Ascension Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
-St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
 Heart Hospital of Austin,30.3059344,-97.7412061,ChIJ21hN8n3KRIYRcFnDZLVfRdw,"3801 N Lamar Blvd, Austin",4.1
-Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
+Emergency Room - Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
+The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
 Dell Children's Medical Center of Central Texas,30.3036088,-97.7065188,ChIJY6OBqQfKRIYRreSi47pbrV0,"4900 Mueller Blvd, Austin",3.7
+St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.5
+Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
 Austin Emergency Center - Mueller,30.3016498,-97.6989672,ChIJNfUvvZ7LRIYRlCZXFVa4XD8,"1801 E 51st St Bldg. H, Austin",4.9
-Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
-Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
-St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
 Ascension Seton Medical Center Austin,30.3050778,-97.74608459999999,ChIJ44CyyYbKRIYRc59df6kDbQ4,"1201 W 38th St, Austin",3.3
-First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.2
+Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
+Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
+St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
 Physicians Premier Emergency Room - Central Austin,30.331232,-97.7396931,ChIJI-AfUFjKRIYRfAQtTRIlKg8,"5525 Burnet Rd suite a, Austin",5.0
+St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
+First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.1
 Pediatric Neurosurgery Center of Central Texas,30.3055558,-97.70732609999999,ChIJQRE7qgfKRIYRtbh5akJ9o1g,"1301 Barbara Jordan Blvd Suite 307, Austin",2.7
-Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
-St. David's Rehabilitation Hospital,30.2900746,-97.72621040000001,ChIJzXbSbY61RIYRZHONRgUen54,"919 E 32nd St, Austin",4.9
+Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
 Ascension Seton Heart Specialty Care and Transplant Center,30.3053377,-97.74672059999999,ChIJu2fCoIbKRIYRKmsdErk9ukg,"1301 W 38th St #514, Austin",3.7
+Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
+Fresenius Medical Care at Heart Hospital Of Austin,30.3058458,-97.74115719999999,ChIJiTgA9H3KRIYRGGW-uLEy0-s,"3801 N Lamar Blvd, Austin",0.0
+Dell Children's Medical Center of Central Texas Emergency Room,30.3037835,-97.7067943,ChIJiRc6sAfKRIYRmOzVy1A6n6M,"4900 Mueller Blvd, Austin",2.8
+Heart Hospital of Austin,30.3059344,-97.7412061,ChIJ21hN8n3KRIYRcFnDZLVfRdw,"3801 N Lamar Blvd, Austin",4.1
+Emergency Room - Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
+The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
+Dell Children's Medical Center of Central Texas,30.3036088,-97.7065188,ChIJY6OBqQfKRIYRreSi47pbrV0,"4900 Mueller Blvd, Austin",3.7
+St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.5
+Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
+Austin Emergency Center - Mueller,30.3016498,-97.6989672,ChIJNfUvvZ7LRIYRlCZXFVa4XD8,"1801 E 51st St Bldg. H, Austin",4.9
+Ascension Seton Medical Center Austin,30.3050778,-97.74608459999999,ChIJ44CyyYbKRIYRc59df6kDbQ4,"1201 W 38th St, Austin",3.3
+Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
+Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
+St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
+Physicians Premier Emergency Room - Central Austin,30.331232,-97.7396931,ChIJI-AfUFjKRIYRfAQtTRIlKg8,"5525 Burnet Rd suite a, Austin",5.0
+St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
+First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.1
+Pediatric Neurosurgery Center of Central Texas,30.3055558,-97.70732609999999,ChIJQRE7qgfKRIYRtbh5akJ9o1g,"1301 Barbara Jordan Blvd Suite 307, Austin",2.7
+Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
+Ascension Seton Heart Specialty Care and Transplant Center,30.3053377,-97.74672059999999,ChIJu2fCoIbKRIYRKmsdErk9ukg,"1301 W 38th St #514, Austin",3.7
+Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
+Fresenius Medical Care at Heart Hospital Of Austin,30.3058458,-97.74115719999999,ChIJiTgA9H3KRIYRGGW-uLEy0-s,"3801 N Lamar Blvd, Austin",0.0
+Dell Children's Medical Center of Central Texas Emergency Room,30.3037835,-97.7067943,ChIJiRc6sAfKRIYRmOzVy1A6n6M,"4900 Mueller Blvd, Austin",2.8
+Heart Hospital of Austin,30.3059344,-97.7412061,ChIJ21hN8n3KRIYRcFnDZLVfRdw,"3801 N Lamar Blvd, Austin",4.1
+Emergency Room - Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
+The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
+Dell Children's Medical Center of Central Texas,30.3036088,-97.7065188,ChIJY6OBqQfKRIYRreSi47pbrV0,"4900 Mueller Blvd, Austin",3.7
+St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.5
+Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
+Austin Emergency Center - Mueller,30.3016498,-97.6989672,ChIJNfUvvZ7LRIYRlCZXFVa4XD8,"1801 E 51st St Bldg. H, Austin",4.9
+Ascension Seton Medical Center Austin,30.3050778,-97.74608459999999,ChIJ44CyyYbKRIYRc59df6kDbQ4,"1201 W 38th St, Austin",3.3
+Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
+Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
+St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
+Physicians Premier Emergency Room - Central Austin,30.331232,-97.7396931,ChIJI-AfUFjKRIYRfAQtTRIlKg8,"5525 Burnet Rd suite a, Austin",5.0
+St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
+First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.1
+Pediatric Neurosurgery Center of Central Texas,30.3055558,-97.70732609999999,ChIJQRE7qgfKRIYRtbh5akJ9o1g,"1301 Barbara Jordan Blvd Suite 307, Austin",2.7
+Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
+Ascension Seton Heart Specialty Care and Transplant Center,30.3053377,-97.74672059999999,ChIJu2fCoIbKRIYRKmsdErk9ukg,"1301 W 38th St #514, Austin",3.7
+Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
+Fresenius Medical Care at Heart Hospital Of Austin,30.3058458,-97.74115719999999,ChIJiTgA9H3KRIYRGGW-uLEy0-s,"3801 N Lamar Blvd, Austin",0.0
+Dell Children's Medical Center of Central Texas Emergency Room,30.3037835,-97.7067943,ChIJiRc6sAfKRIYRmOzVy1A6n6M,"4900 Mueller Blvd, Austin",2.8
+Heart Hospital of Austin,30.3059344,-97.7412061,ChIJ21hN8n3KRIYRcFnDZLVfRdw,"3801 N Lamar Blvd, Austin",4.1
+Emergency Room - Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
+The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
+Dell Children's Medical Center of Central Texas,30.3036088,-97.7065188,ChIJY6OBqQfKRIYRreSi47pbrV0,"4900 Mueller Blvd, Austin",3.7
+St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.5
+Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
+Austin Emergency Center - Mueller,30.3016498,-97.6989672,ChIJNfUvvZ7LRIYRlCZXFVa4XD8,"1801 E 51st St Bldg. H, Austin",4.9
+Ascension Seton Medical Center Austin,30.3050778,-97.74608459999999,ChIJ44CyyYbKRIYRc59df6kDbQ4,"1201 W 38th St, Austin",3.3
+Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
+Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
+St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
+Physicians Premier Emergency Room - Central Austin,30.331232,-97.7396931,ChIJI-AfUFjKRIYRfAQtTRIlKg8,"5525 Burnet Rd suite a, Austin",5.0
+St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
+First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.1
+Pediatric Neurosurgery Center of Central Texas,30.3055558,-97.70732609999999,ChIJQRE7qgfKRIYRtbh5akJ9o1g,"1301 Barbara Jordan Blvd Suite 307, Austin",2.7
+Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
+Ascension Seton Heart Specialty Care and Transplant Center,30.3053377,-97.74672059999999,ChIJu2fCoIbKRIYRKmsdErk9ukg,"1301 W 38th St #514, Austin",3.7
+Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
+Fresenius Medical Care at Heart Hospital Of Austin,30.3058458,-97.74115719999999,ChIJiTgA9H3KRIYRGGW-uLEy0-s,"3801 N Lamar Blvd, Austin",0.0
+Dell Children's Medical Center of Central Texas Emergency Room,30.3037835,-97.7067943,ChIJiRc6sAfKRIYRmOzVy1A6n6M,"4900 Mueller Blvd, Austin",2.8
+Heart Hospital of Austin,30.3059344,-97.7412061,ChIJ21hN8n3KRIYRcFnDZLVfRdw,"3801 N Lamar Blvd, Austin",4.1
+Emergency Room - Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
+The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
+Dell Children's Medical Center of Central Texas,30.3036088,-97.7065188,ChIJY6OBqQfKRIYRreSi47pbrV0,"4900 Mueller Blvd, Austin",3.7
+St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.5
+Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
+Austin Emergency Center - Mueller,30.3016498,-97.6989672,ChIJNfUvvZ7LRIYRlCZXFVa4XD8,"1801 E 51st St Bldg. H, Austin",4.9
+Ascension Seton Medical Center Austin,30.3050778,-97.74608459999999,ChIJ44CyyYbKRIYRc59df6kDbQ4,"1201 W 38th St, Austin",3.3
+Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
+Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
+St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
+Physicians Premier Emergency Room - Central Austin,30.331232,-97.7396931,ChIJI-AfUFjKRIYRfAQtTRIlKg8,"5525 Burnet Rd suite a, Austin",5.0
+St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
+First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.1
+Pediatric Neurosurgery Center of Central Texas,30.3055558,-97.70732609999999,ChIJQRE7qgfKRIYRtbh5akJ9o1g,"1301 Barbara Jordan Blvd Suite 307, Austin",2.7
+Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
+Ascension Seton Heart Specialty Care and Transplant Center,30.3053377,-97.74672059999999,ChIJu2fCoIbKRIYRKmsdErk9ukg,"1301 W 38th St #514, Austin",3.7
+Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
+Fresenius Medical Care at Heart Hospital Of Austin,30.3058458,-97.74115719999999,ChIJiTgA9H3KRIYRGGW-uLEy0-s,"3801 N Lamar Blvd, Austin",0.0
+Dell Children's Medical Center of Central Texas Emergency Room,30.3037835,-97.7067943,ChIJiRc6sAfKRIYRmOzVy1A6n6M,"4900 Mueller Blvd, Austin",2.8
+Heart Hospital of Austin,30.3059344,-97.7412061,ChIJ21hN8n3KRIYRcFnDZLVfRdw,"3801 N Lamar Blvd, Austin",4.1
+Emergency Room - Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
+The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
+Dell Children's Medical Center of Central Texas,30.3036088,-97.7065188,ChIJY6OBqQfKRIYRreSi47pbrV0,"4900 Mueller Blvd, Austin",3.7
+St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.5
+Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
+Austin Emergency Center - Mueller,30.3016498,-97.6989672,ChIJNfUvvZ7LRIYRlCZXFVa4XD8,"1801 E 51st St Bldg. H, Austin",4.9
+Ascension Seton Medical Center Austin,30.3050778,-97.74608459999999,ChIJ44CyyYbKRIYRc59df6kDbQ4,"1201 W 38th St, Austin",3.3
+Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
+Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
+St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
+Physicians Premier Emergency Room - Central Austin,30.331232,-97.7396931,ChIJI-AfUFjKRIYRfAQtTRIlKg8,"5525 Burnet Rd suite a, Austin",5.0
+St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
+First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.1
+Pediatric Neurosurgery Center of Central Texas,30.3055558,-97.70732609999999,ChIJQRE7qgfKRIYRtbh5akJ9o1g,"1301 Barbara Jordan Blvd Suite 307, Austin",2.7
+Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
+Ascension Seton Heart Specialty Care and Transplant Center,30.3053377,-97.74672059999999,ChIJu2fCoIbKRIYRKmsdErk9ukg,"1301 W 38th St #514, Austin",3.7
+Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
+Fresenius Medical Care at Heart Hospital Of Austin,30.3058458,-97.74115719999999,ChIJiTgA9H3KRIYRGGW-uLEy0-s,"3801 N Lamar Blvd, Austin",0.0
+Dell Children's Medical Center of Central Texas Emergency Room,30.3037835,-97.7067943,ChIJiRc6sAfKRIYRmOzVy1A6n6M,"4900 Mueller Blvd, Austin",2.8
+Heart Hospital of Austin,30.3059344,-97.7412061,ChIJ21hN8n3KRIYRcFnDZLVfRdw,"3801 N Lamar Blvd, Austin",4.1
+Emergency Room - Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
+The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
+Dell Children's Medical Center of Central Texas,30.3036088,-97.7065188,ChIJY6OBqQfKRIYRreSi47pbrV0,"4900 Mueller Blvd, Austin",3.7
+St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.5
+Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
+Austin Emergency Center - Mueller,30.3016498,-97.6989672,ChIJNfUvvZ7LRIYRlCZXFVa4XD8,"1801 E 51st St Bldg. H, Austin",4.9
+Ascension Seton Medical Center Austin,30.3050778,-97.74608459999999,ChIJ44CyyYbKRIYRc59df6kDbQ4,"1201 W 38th St, Austin",3.3
+Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
+Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
+St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
+Physicians Premier Emergency Room - Central Austin,30.331232,-97.7396931,ChIJI-AfUFjKRIYRfAQtTRIlKg8,"5525 Burnet Rd suite a, Austin",5.0
+St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
+First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.1
+Pediatric Neurosurgery Center of Central Texas,30.3055558,-97.70732609999999,ChIJQRE7qgfKRIYRtbh5akJ9o1g,"1301 Barbara Jordan Blvd Suite 307, Austin",2.7
+Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
+Ascension Seton Heart Specialty Care and Transplant Center,30.3053377,-97.74672059999999,ChIJu2fCoIbKRIYRKmsdErk9ukg,"1301 W 38th St #514, Austin",3.7
+Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
+Fresenius Medical Care at Heart Hospital Of Austin,30.3058458,-97.74115719999999,ChIJiTgA9H3KRIYRGGW-uLEy0-s,"3801 N Lamar Blvd, Austin",0.0
+Dell Children's Medical Center of Central Texas Emergency Room,30.3037835,-97.7067943,ChIJiRc6sAfKRIYRmOzVy1A6n6M,"4900 Mueller Blvd, Austin",2.8
+Heart Hospital of Austin,30.3059344,-97.7412061,ChIJ21hN8n3KRIYRcFnDZLVfRdw,"3801 N Lamar Blvd, Austin",4.1
+Emergency Room - Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
+The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
+Dell Children's Medical Center of Central Texas,30.3036088,-97.7065188,ChIJY6OBqQfKRIYRreSi47pbrV0,"4900 Mueller Blvd, Austin",3.7
+St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.5
+Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
+Austin Emergency Center - Mueller,30.3016498,-97.6989672,ChIJNfUvvZ7LRIYRlCZXFVa4XD8,"1801 E 51st St Bldg. H, Austin",4.9
+Ascension Seton Medical Center Austin,30.3050778,-97.74608459999999,ChIJ44CyyYbKRIYRc59df6kDbQ4,"1201 W 38th St, Austin",3.3
+Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
+Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
+St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
+Physicians Premier Emergency Room - Central Austin,30.331232,-97.7396931,ChIJI-AfUFjKRIYRfAQtTRIlKg8,"5525 Burnet Rd suite a, Austin",5.0
+St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
+First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.1
+Pediatric Neurosurgery Center of Central Texas,30.3055558,-97.70732609999999,ChIJQRE7qgfKRIYRtbh5akJ9o1g,"1301 Barbara Jordan Blvd Suite 307, Austin",2.7
+Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
+Ascension Seton Heart Specialty Care and Transplant Center,30.3053377,-97.74672059999999,ChIJu2fCoIbKRIYRKmsdErk9ukg,"1301 W 38th St #514, Austin",3.7
+Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
+Fresenius Medical Care at Heart Hospital Of Austin,30.3058458,-97.74115719999999,ChIJiTgA9H3KRIYRGGW-uLEy0-s,"3801 N Lamar Blvd, Austin",0.0
+Dell Children's Medical Center of Central Texas Emergency Room,30.3037835,-97.7067943,ChIJiRc6sAfKRIYRmOzVy1A6n6M,"4900 Mueller Blvd, Austin",2.8
+Heart Hospital of Austin,30.3059344,-97.7412061,ChIJ21hN8n3KRIYRcFnDZLVfRdw,"3801 N Lamar Blvd, Austin",4.1
+Emergency Room - Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
+The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
+Dell Children's Medical Center of Central Texas,30.3036088,-97.7065188,ChIJY6OBqQfKRIYRreSi47pbrV0,"4900 Mueller Blvd, Austin",3.7
+St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.5
+Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
+Austin Emergency Center - Mueller,30.3016498,-97.6989672,ChIJNfUvvZ7LRIYRlCZXFVa4XD8,"1801 E 51st St Bldg. H, Austin",4.9
+Ascension Seton Medical Center Austin,30.3050778,-97.74608459999999,ChIJ44CyyYbKRIYRc59df6kDbQ4,"1201 W 38th St, Austin",3.3
+Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
+Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
+St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
+Physicians Premier Emergency Room - Central Austin,30.331232,-97.7396931,ChIJI-AfUFjKRIYRfAQtTRIlKg8,"5525 Burnet Rd suite a, Austin",5.0
+St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
+First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.1
+Pediatric Neurosurgery Center of Central Texas,30.3055558,-97.70732609999999,ChIJQRE7qgfKRIYRtbh5akJ9o1g,"1301 Barbara Jordan Blvd Suite 307, Austin",2.7
+Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
+Ascension Seton Heart Specialty Care and Transplant Center,30.3053377,-97.74672059999999,ChIJu2fCoIbKRIYRKmsdErk9ukg,"1301 W 38th St #514, Austin",3.7
+Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
+Fresenius Medical Care at Heart Hospital Of Austin,30.3058458,-97.74115719999999,ChIJiTgA9H3KRIYRGGW-uLEy0-s,"3801 N Lamar Blvd, Austin",0.0
+Dell Children's Medical Center of Central Texas Emergency Room,30.3037835,-97.7067943,ChIJiRc6sAfKRIYRmOzVy1A6n6M,"4900 Mueller Blvd, Austin",2.8
+Heart Hospital of Austin,30.3059344,-97.7412061,ChIJ21hN8n3KRIYRcFnDZLVfRdw,"3801 N Lamar Blvd, Austin",4.1
+Emergency Room - Seton Medical Center Austin,30.3045193,-97.7461972,ChIJBx8ds4bKRIYRwhm9ceqdNvI,"1201 W 38th St, Austin",2.7
+The Hospital at Westlake Medical Center: Emergency Room,30.2957479,-97.82561869999999,ChIJExNrRn41W4YRfC4FiQ8BYAo,"5656 Bee Caves Rd, West Lake Hills",3.0
+Dell Children's Medical Center of Central Texas,30.3036088,-97.7065188,ChIJY6OBqQfKRIYRreSi47pbrV0,"4900 Mueller Blvd, Austin",3.7
+St. David's Medical Center,30.2899358,-97.72589479999999,ChIJg3bS4Y21RIYREr5TRa1Lf1Q,"919 E 32nd St, Austin",3.5
+Arise Austin Medical Center: Emergency Room,30.2708914,-97.7959054,ChIJaf9xdshKW4YRny4bPyy-nO8,"3003 Bee Caves Rd, Austin",5.0
+Austin Emergency Center - Mueller,30.3016498,-97.6989672,ChIJNfUvvZ7LRIYRlCZXFVa4XD8,"1801 E 51st St Bldg. H, Austin",4.9
+Ascension Seton Medical Center Austin,30.3050778,-97.74608459999999,ChIJ44CyyYbKRIYRc59df6kDbQ4,"1201 W 38th St, Austin",3.3
+Dell Seton Medical Center at The University of Texas,30.2762538,-97.73414580000001,ChIJV1Wle6K1RIYRzsfCMOQJYxA,"1500 Red River St, Austin",2.8
+Austin Emergency Center - South Lamar,30.2354528,-97.7926806,ChIJzcXMwNW0RIYR4eARrailj5k,"4015 S Lamar Blvd, Austin",4.4
+St. David's South Austin Medical Center: Emergency Room,30.2255966,-97.7749467,ChIJQSwWg7e0RIYRP6tVEvLJdkE,"901 W Ben White Blvd, Austin",2.0
+Physicians Premier Emergency Room - Central Austin,30.331232,-97.7396931,ChIJI-AfUFjKRIYRfAQtTRIlKg8,"5525 Burnet Rd suite a, Austin",5.0
+St. David's Medical Center Emergency Room,30.2902401,-97.7261175,ChIJHX_-co61RIYRcjlWH4MiDaE,"919 E 32nd St, Austin",0.0
+First Choice Emergency Room,30.2411475,-97.72701819999999,ChIJI1HMlUW0RIYR8BSSGKM5nsM,"2020 E Riverside Dr, Austin",3.1
+Pediatric Neurosurgery Center of Central Texas,30.3055558,-97.70732609999999,ChIJQRE7qgfKRIYRtbh5akJ9o1g,"1301 Barbara Jordan Blvd Suite 307, Austin",2.7
+Emergency Room - Dell Seton Medical Center at The University of Texas,30.276643,-97.73396849999999,ChIJvy11ckG1RIYRa4G_OqNxRp4,"1500 Red River St, Austin",5.0
+Ascension Seton Heart Specialty Care and Transplant Center,30.3053377,-97.74672059999999,ChIJu2fCoIbKRIYRKmsdErk9ukg,"1301 W 38th St #514, Austin",3.7
+Dell Children's Extracorporeal Membrane Oxygenation (ECMO) Program,30.3034562,-97.7073463,ChIJqalWsgfKRIYRlbg9EDKMnqY,"4900 Mueller Boulevard Room 2M014, Austin",0.0
+Fresenius Medical Care at Heart Hospital Of Austin,30.3058458,-97.74115719999999,ChIJiTgA9H3KRIYRGGW-uLEy0-s,"3801 N Lamar Blvd, Austin",0.0

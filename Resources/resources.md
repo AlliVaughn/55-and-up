@@ -1,1 +1,0 @@
-# This folder is for any  resources we need to have available or resource files we need to save 
