@@ -1,6 +1,5 @@
 ![MAP](https://github.com/AlliVaughn/Project1/blob/master/final_images/map_snipped.JPG)
 # Project 1: Assisted Living Recommender
-## Team: Sam, Deb, Alli
 #### The problem:  
 “The evidence indicates that every additional kilometer [away one is from the hospital] decreases the probability of survival because it causes an injured individual to become a more serious case. She or he will arrive at the hospital in worse condition as the time to reach the emergency room increases. Assessing whether proximity is more or less relevant conditional on the quality or performance of the nearest hospital is an empirical question. Both high‐ and low‐quality hospitals can save both easy and serious cases, but we could expect that, on average, high‐quality hospitals tend to save more of both.” 
 Their findings stress that “…poor emergency care services, and low‐quality hospitals increase the importance of hospital proximity.”  - A current study from The Econometrics workshop: The life‐saving effect of hospital proximity
